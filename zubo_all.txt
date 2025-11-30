@@ -1,4 +1,4 @@
-2025/11/30 08:33更新,#genre#
+2025/11/30 15:45更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 四川移动-组播1,#genre#
 四川卫视,http://183.220.20.17:4321/rtp/239.11.0.78:5140
